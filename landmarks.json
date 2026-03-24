@@ -1,0 +1,97 @@
+{
+  "shapeWeights": {
+    "_neutral": 0.0,
+    "browDownLeft": 0.7204,
+    "browDownRight": 0.7105,
+    "browInnerUp": 0.0002,
+    "browOuterUpLeft": 0.0005,
+    "browOuterUpRight": 0.0008,
+    "cheekPuff": 0.0,
+    "cheekSquintLeft": 0.0,
+    "cheekSquintRight": 0.0,
+    "eyeBlinkLeft": 0.1638,
+    "eyeBlinkRight": 0.1285,
+    "eyeLookDownLeft": 0.2078,
+    "eyeLookDownRight": 0.2086,
+    "eyeLookInLeft": 0.013,
+    "eyeLookInRight": 0.0667,
+    "eyeLookOutLeft": 0.2743,
+    "eyeLookOutRight": 0.093,
+    "eyeLookUpLeft": 0.0424,
+    "eyeLookUpRight": 0.0404,
+    "eyeSquintLeft": 0.4175,
+    "eyeSquintRight": 0.4224,
+    "eyeWideLeft": 0.0045,
+    "eyeWideRight": 0.0031,
+    "jawForward": 0.0,
+    "jawLeft": 0.0006,
+    "jawOpen": 0.0058,
+    "jawRight": 0.0,
+    "mouthClose": 0.0014,
+    "mouthDimpleLeft": 0.0058,
+    "mouthDimpleRight": 0.0025,
+    "mouthFrownLeft": 0.0057,
+    "mouthFrownRight": 0.0089,
+    "mouthFunnel": 0.0001,
+    "mouthLeft": 0.0024,
+    "mouthLowerDownLeft": 0.0,
+    "mouthLowerDownRight": 0.0,
+    "mouthPressLeft": 0.0762,
+    "mouthPressRight": 0.0621,
+    "mouthPucker": 0.002,
+    "mouthRight": 0.0004,
+    "mouthRollLower": 0.0429,
+    "mouthRollUpper": 0.007,
+    "mouthShrugLower": 0.8895,
+    "mouthShrugUpper": 0.2308,
+    "mouthSmileLeft": 0.0023,
+    "mouthSmileRight": 0.0015,
+    "mouthStretchLeft": 0.0041,
+    "mouthStretchRight": 0.0075,
+    "mouthUpperUpLeft": 0.003,
+    "mouthUpperUpRight": 0.0037,
+    "noseSneerLeft": 0.0,
+    "noseSneerRight": 0.0
+  },
+  "headPoseMatrix": [
+    [
+      0.998723,
+      0.00796,
+      0.049884,
+      -0.89642
+    ],
+    [
+      -0.012365,
+      0.995988,
+      0.088633,
+      0.462455
+    ],
+    [
+      -0.048979,
+      -0.089137,
+      0.994815,
+      -27.609262
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "skinColor": [
+    0.4038,
+    0.2636,
+    0.2357
+  ],
+  "eyeColor": [
+    0.3671,
+    0.2024,
+    0.1678
+  ],
+  "hairColor": [
+    0.6026,
+    0.3707,
+    0.3241
+  ]
+}
