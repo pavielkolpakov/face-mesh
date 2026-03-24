@@ -1,0 +1,35 @@
+{
+    "contractVersion": "1.1.0",
+    "avatarId": "avt_123",
+    "rigVersion": "stylized_rig_v1",
+    "baseModel": "unisex_base_v1",
+    "generatedAt": "2026-03-23T16:27:21Z",
+    "blendshapes": {
+        "faceWidth": 0.52,
+        "jawWidth": 0.44,
+        "chinLength": 0.40,
+        "cheekboneHeight": 0.61,
+        "eyeSize": 0.47,
+        "eyeSpacing": 0.50,
+        "noseSize": 0.45,
+        "noseBridgeHeight": 0.57,
+        "noseTipSize": 0.46,
+        "lipFullness": 0.36,
+        "mouthWidth": 0.49,
+        "browHeight": 0.53
+    },
+    "customBlendshapeConfidence": {
+        "faceWidth": 0.9181,
+        "jawWidth": 0.9181,
+        "chinLength": 0.7804,
+        "cheekboneHeight": 0.6886,
+        "eyeSize": 0.7677,
+        "eyeSpacing": 0.9181,
+        "noseSize": 0.8263,
+        "noseBridgeHeight": 0.6427,
+        "noseTipSize": 0.7345,
+        "lipFullness": 0.9128,
+        "mouthWidth": 0.9154,
+        "browHeight": 0.8263
+    }
+}
