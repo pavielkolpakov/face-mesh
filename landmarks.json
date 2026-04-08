@@ -11,15 +11,15 @@
     "cheekSquintRight": 0.0,
     "eyeBlinkLeft": 0.1638,
     "eyeBlinkRight": 0.1285,
-    "eyeLookDownLeft": 0.2079,
-    "eyeLookDownRight": 0.2087,
+    "eyeLookDownLeft": 0.2078,
+    "eyeLookDownRight": 0.2086,
     "eyeLookInLeft": 0.013,
     "eyeLookInRight": 0.0667,
     "eyeLookOutLeft": 0.2743,
     "eyeLookOutRight": 0.093,
     "eyeLookUpLeft": 0.0424,
-    "eyeLookUpRight": 0.0403,
-    "eyeSquintLeft": 0.4173,
+    "eyeLookUpRight": 0.0404,
+    "eyeSquintLeft": 0.4175,
     "eyeSquintRight": 0.4224,
     "eyeWideLeft": 0.0045,
     "eyeWideRight": 0.0031,
@@ -36,13 +36,13 @@
     "mouthLeft": 0.0024,
     "mouthLowerDownLeft": 0.0,
     "mouthLowerDownRight": 0.0,
-    "mouthPressLeft": 0.0761,
+    "mouthPressLeft": 0.0762,
     "mouthPressRight": 0.0621,
     "mouthPucker": 0.002,
     "mouthRight": 0.0004,
     "mouthRollLower": 0.0429,
     "mouthRollUpper": 0.007,
-    "mouthShrugLower": 0.8894,
+    "mouthShrugLower": 0.8895,
     "mouthShrugUpper": 0.2308,
     "mouthSmileLeft": 0.0023,
     "mouthSmileRight": 0.0015,
@@ -56,7 +56,7 @@
   "customBlendshapes": {
     "faceWidth": 0.0,
     "jawWidth": 0.0,
-    "chinLength": 0.202,
+    "chinLength": 0.2021,
     "cheekboneHeight": 0.8259,
     "eyeSize": 1.0,
     "eyeSpacing": 0.1877,
@@ -68,18 +68,18 @@
     "browHeight": 0.7196
   },
   "customBlendshapesRaw": {
-    "faceWidth": 2.056869,
-    "jawWidth": 1.692669,
-    "chinLength": 1.202012,
-    "cheekboneHeight": 0.825883,
-    "eyeSize": 0.533138,
-    "eyeSpacing": 0.534476,
-    "noseSize": 0.615839,
-    "noseBridgeHeight": 0.17368,
-    "noseTipSize": 0.505219,
-    "lipFullness": 0.0041,
-    "mouthWidth": 0.714051,
-    "browHeight": 0.40786
+    "faceWidth": 2.056929,
+    "jawWidth": 1.692731,
+    "chinLength": 1.20208,
+    "cheekboneHeight": 0.825885,
+    "eyeSize": 0.533126,
+    "eyeSpacing": 0.534463,
+    "noseSize": 0.615819,
+    "noseBridgeHeight": 0.173675,
+    "noseTipSize": 0.505196,
+    "lipFullness": 0.004094,
+    "mouthWidth": 0.714062,
+    "browHeight": 0.407858
   },
   "customBlendshapeConfidence": {
     "faceWidth": 0.9181,
@@ -97,22 +97,22 @@
   },
   "headPoseMatrix": [
     [
-      0.99872,
-      0.007949,
-      0.049946,
-      -0.896315
+      0.998723,
+      0.00796,
+      0.049884,
+      -0.89642
     ],
     [
-      -0.012351,
-      0.996003,
-      0.08846,
-      0.46281
+      -0.012365,
+      0.995988,
+      0.088633,
+      0.462455
     ],
     [
-      -0.049043,
-      -0.088964,
-      0.994827,
-      -27.599663
+      -0.048979,
+      -0.089137,
+      0.994815,
+      -27.609262
     ],
     [
       0.0,

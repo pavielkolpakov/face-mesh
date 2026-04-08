@@ -1,3 +1,7 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "face-mesh"
 version = "0.1.0"
@@ -8,3 +12,19 @@ dependencies = [
     "mediapipe==0.10.14",
     "opencv-python>=4.13.0.92",
 ]
+
+[project.optional-dependencies]
+body = [
+    "numpy>=1.24",
+    "torch>=2.0",
+    "simple-romp==1.1.4",
+]
+
+[project.scripts]
+face-mesh = "face_mesh.interfaces.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.uv.extra-build-dependencies]
+simple-romp = ["Cython", "setuptools", "numpy", "lapx"]
