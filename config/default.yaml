@@ -1,0 +1,9 @@
+poll_interval_s: 3
+max_retries: 3
+stuck_job_cutoff_minutes: 10
+log_level: INFO
+
+models:
+  face_landmarker: models/face_landmarker.task
+  pose_landmarker: models/pose_landmarker_lite.task
+  segmenter: models/selfie_segmenter.tflite

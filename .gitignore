@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+build/
+dist/
+
+# Virtualenv / env
+.venv/
+.env
+.env.*
+!.env.example
+
+# Caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Editors / OS
+.DS_Store
+.idea/
+.vscode/
+
+# Claude / local tooling
+.claude/
+.mcp.json
+
+# Models (fetched via scripts/download_models.sh)
+models/
+*.task
+
+# Legacy / scratch files (pre-refactor)
+main.py
+blank.jpg
+blendshapes.json
+input.jpeg
+landmarks.json
+format.json
+body.md
+cursor_blendshape_extraction_from_media.md
+
+# Legacy fixtures at repo root — goldens live in tests/golden/expected/
+/fat_face.png
+/fit_face.png
+/skinny_face.png
+/fat_landmarks.json
+/fit_landmarks.json
+/skinny_landmarks.json

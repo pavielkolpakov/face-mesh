@@ -1,0 +1,153 @@
+{
+  "version": "1.0.0",
+  "jobId": "golden-skinny_face",
+  "generatedAt": null,
+  "faceParams": {
+    "faceWidth": 0.5361207409385615,
+    "jawWidth": 0.5261746034544443,
+    "chinLength": 0.0,
+    "cheekboneHeight": 0.8457007483269418,
+    "eyeSize": 0.6859768669806443,
+    "eyeSpacing": 0.09223940797460016,
+    "noseSize": 0.0,
+    "noseBridgeHeight": 0.0,
+    "noseTipSize": 0.22067990197150056,
+    "lipFullness": 0.0,
+    "mouthWidth": 0.0,
+    "browHeight": 0.380902056906742
+  },
+  "bodyParams": null,
+  "faceMeasurements": {
+    "raw": {
+      "faceWidth": 2.018629407783267,
+      "jawWidth": 1.6250471432853,
+      "chinLength": 0.5106812601772301,
+      "cheekboneHeight": 0.8457007483269418,
+      "eyeSize": 0.33091491073574175,
+      "eyeSpacing": 0.4915077335885701,
+      "noseSize": 0.4670643816611491,
+      "noseBridgeHeight": 0.1166752288296497,
+      "noseTipSize": 0.4824079411829003,
+      "lipFullness": 0.0040007062659459984,
+      "mouthWidth": 0.7390049233690672,
+      "browHeight": 0.2723608227626968
+    },
+    "frontalScore": 1.0
+  },
+  "bodyMeasurements": null,
+  "confidence": {
+    "face": {
+      "faceWidth": 0.86755,
+      "jawWidth": 0.86755,
+      "chinLength": 0.7374175000000001,
+      "cheekboneHeight": 0.6506625,
+      "eyeSize": 0.7528598900000001,
+      "eyeSpacing": 0.86755,
+      "noseSize": 0.780795,
+      "noseBridgeHeight": 0.607285,
+      "noseTipSize": 0.6940400000000001,
+      "lipFullness": 0.637736005,
+      "mouthWidth": 0.7526430025,
+      "browHeight": 0.780795
+    },
+    "body": null,
+    "overall": 0.7497403247916666
+  },
+  "appearance": {
+    "skinColor": [
+      0.4363,
+      0.32,
+      0.2693
+    ],
+    "eyeColor": [
+      0.4129,
+      0.2633,
+      0.2258
+    ],
+    "hairColor": [
+      0.4986,
+      0.3527,
+      0.2999
+    ]
+  },
+  "shapeWeights": {
+    "_neutral": 0.0,
+    "browDownLeft": 0.335,
+    "browDownRight": 0.3443,
+    "browInnerUp": 0.0029,
+    "browOuterUpLeft": 0.0034,
+    "browOuterUpRight": 0.002,
+    "cheekPuff": 0.0,
+    "cheekSquintLeft": 0.0,
+    "cheekSquintRight": 0.0,
+    "eyeBlinkLeft": 0.1322,
+    "eyeBlinkRight": 0.11,
+    "eyeLookDownLeft": 0.0838,
+    "eyeLookDownRight": 0.0822,
+    "eyeLookInLeft": 0.0174,
+    "eyeLookInRight": 0.1408,
+    "eyeLookOutLeft": 0.1688,
+    "eyeLookOutRight": 0.0351,
+    "eyeLookUpLeft": 0.0996,
+    "eyeLookUpRight": 0.1036,
+    "eyeSquintLeft": 0.4036,
+    "eyeSquintRight": 0.381,
+    "eyeWideLeft": 0.0044,
+    "eyeWideRight": 0.0035,
+    "jawForward": 0.0001,
+    "jawLeft": 0.0003,
+    "jawOpen": 0.002,
+    "jawRight": 0.0,
+    "mouthClose": 0.0006,
+    "mouthDimpleLeft": 0.0163,
+    "mouthDimpleRight": 0.0196,
+    "mouthFrownLeft": 0.0001,
+    "mouthFrownRight": 0.0001,
+    "mouthFunnel": 0.0003,
+    "mouthLeft": 0.0007,
+    "mouthLowerDownLeft": 0.0001,
+    "mouthLowerDownRight": 0.0001,
+    "mouthPressLeft": 0.2074,
+    "mouthPressRight": 0.2007,
+    "mouthPucker": 0.0026,
+    "mouthRight": 0.0027,
+    "mouthRollLower": 0.0066,
+    "mouthRollUpper": 0.0048,
+    "mouthShrugLower": 0.0224,
+    "mouthShrugUpper": 0.0078,
+    "mouthSmileLeft": 0.2521,
+    "mouthSmileRight": 0.2649,
+    "mouthStretchLeft": 0.01,
+    "mouthStretchRight": 0.0145,
+    "mouthUpperUpLeft": 0.0001,
+    "mouthUpperUpRight": 0.0002,
+    "noseSneerLeft": 0.0,
+    "noseSneerRight": 0.0
+  },
+  "headPoseMatrix": [
+    [
+      0.999811,
+      -0.018427,
+      -0.006195,
+      -0.500031
+    ],
+    [
+      0.017279,
+      0.988355,
+      -0.151183,
+      3.776303
+    ],
+    [
+      0.008909,
+      0.151047,
+      0.988487,
+      -28.344444
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ]
+}
